@@ -1,0 +1,22 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #E69A19;
+  background: -webkit-linear-gradient(top left, #E69A19, #FFFFFF);
+  background: -moz-linear-gradient(top left, #E69A19, #FFFFFF);
+  background: linear-gradient(to bottom right, #E69A19, #FFFFFF);
+}
+
+.logos a {
+  color: white;
+}
+
+.logos a:hover {
+  color:#424242;
+}
+
+#profileimg {
+  /* -webkit-box-shadow: 5px 5px 15px -6px #000000; 
+  box-shadow: 5px 5px 15px -6px #000000; */
+  -webkit-box-shadow: 4px 5px 30px 5px rgba(193,130,21,0.72); 
+  box-shadow: 4px 5px 30px 5px rgba(193,130,21,0.72);
+}
